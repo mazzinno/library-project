@@ -1,0 +1,30 @@
+/* Navbar background color and padding */
+.navbar-custom {
+    background-color: #161c2d; /* Dark background color */
+    padding: 10px 0; /* Adjust padding as needed */
+  }
+  
+  /* Navbar brand styles */
+  .navbar-brand-custom {
+    color: #ffffff !important; /* White text color */
+    font-size: 1.5rem; /* Adjust font size */
+    font-weight: bold; /* Bold font weight */
+    text-decoration: none !important; /* Remove underline */
+  }
+  
+  .navbar-brand-custom:hover {
+    color: #ffffff; /* White text color on hover */
+    opacity: 0.8; /* Adjust opacity */
+  }
+  
+  /* Navbar links styles */
+  .navbar-link-custom {
+    color: #ffffff !important; /* White text color */
+    text-decoration: none !important; /* Remove underline */
+    margin-right: 15px; /* Adjust margin */
+  }
+  
+  .navbar-link-custom:hover {
+    color: #ffffff; /* White text color on hover */
+    opacity: 0.8; /* Adjust opacity */
+  }
